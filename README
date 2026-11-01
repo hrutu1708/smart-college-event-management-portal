@@ -1,0 +1,45 @@
+# Smart College Event Management Portal
+
+A full-stack web application designed to simplify college event management and student participation.
+
+## Features
+
+- Student registration and login
+- Admin and student dashboards
+- Create and manage college events
+- Event registration and participation
+- Individual and team participation
+- Team management
+- QR-based attendance
+- Feedback and notifications
+- Certificate generation
+- Event analytics and reporting
+
+## Technology Stack
+
+**Frontend:** React.js, HTML, CSS, JavaScript
+
+**Backend:** Java 21, Spring Boot, REST APIs
+
+**Database:** MySQL
+
+**Build Tool:** Maven
+
+## Project Structure
+
+- `frontend/` – React.js application
+- `backend/` – Spring Boot application
+
+## Project Type
+
+Academic Full-Stack Development Project
+
+## Developed As
+
+Second-Year Information Technology Engineering Mini Project
+
+A.C. Patil College of Engineering, Kharghar
+
+---
+
+*This project demonstrates full-stack development, database integration, REST API development, and event management workflows.*
